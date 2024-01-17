@@ -1,6 +1,6 @@
-### JSDR 213
+### SEBR0116 213
 
-# 2/15/23 JS Review Lab
+JS Review Lab
 
 ### Instructions :
 Use Codepen or your code editor to complete these steps. Feel free to comment out the "Console.log()" portion of your code after each prompt so that you do not have too much going on on your screen!
@@ -23,13 +23,6 @@ Create an array of 5 colors. Log the first item in the array, then using the len
 ## Prompt 4 : I95 Express
 
 Create an array called newEnglandStates and add 3 states to it. Then create an array called midAtlantic and add 3 states to it. Next, create an array called southeastStates and add 3 states to it.
-
-Use a spread operator to combine these 3 arrays together into an array called eastCoast.
-
-Once we have 9 states in our East Coast, create a variable called theWest that takes 3 states from a westCoast array, and 3 from a southWest array using our spread operators. 
-
-Finally, add your eastCoast and theWest arrays together into an array called unitedStates, which should have at least 15 states in it. 
-
 
 
 ## Prompt 5: Pythagorean Theorum
